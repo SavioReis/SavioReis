@@ -33,6 +33,7 @@
   <a href = "mailto:savioreisgoncalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href = "https://steamcommunity.com/profiles/76561199048768744/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
   <a href = "https://store.epicgames.com/pt-BR/u/e27f6572b9fd442589a7a4b5221897fa"><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" target="_blank">
+  <a href = "http://www.sflix.rf.gd/?i=1"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank">
   </a>  
 </div>
 
