@@ -31,7 +31,7 @@
   <a href="https://www.youtube.com/channel/UC-aBBoFfSxnP_8UNKcjFc9g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/savioreis09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:savioreisgoncalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  <a href = "mailto:savioreisgoncalves@gmail.com"><img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2014/240/iconmonstr-steam-5.png" target="_blank">
+  <a href = "https://steamcommunity.com/profiles/76561199048768744/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
   </a>  
 </div>
 
