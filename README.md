@@ -1,7 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+SÁVIO+REIS;I'm+20+years+old;I+from+Brasil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/SavioReis/SavioReis/assets/72362096/9b26b070-7350-4aea-92e4-97660231b9d2" width="200px" style="margin-right: 20px;" />
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+S%C3%81VIO+REIS;I'm+20+years+old;I'm+from+Brazil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://github.com/SavioReis/SavioReis)
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioReis&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
