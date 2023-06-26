@@ -34,6 +34,7 @@
  ### Main skills:
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=DC143C)&nbsp;
 ![PYTHON](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=DC143C)&nbsp;
+![SQLITE](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=DC143C)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=DC143C)&nbsp;
