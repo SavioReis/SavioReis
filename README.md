@@ -3,7 +3,7 @@
 ![hack-hacker](https://github.com/SavioReis/SavioReis/assets/72362096/9f741f46-77bb-46e7-9cae-1939754b8265)
 
 <p align="center">
-  <img src="https://github.com/SavioReis/SavioReis/assets/72362096/9f741f46-77bb-46e7-9cae-1939754b826" width="400" height="300">
+  <img src=(https://github.com/SavioReis/SavioReis/assets/72362096/9f741f46-77bb-46e7-9cae-1939754b826) width="400" height="300">
 </p>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+S%C3%81VIO+REIS;I'm+20+years+old;I'm+from+Brasil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://github.com/SavioReis/SavioReis)
