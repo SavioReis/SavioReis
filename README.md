@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
 <div align="center">
-<img src="https://github.com/SavioReis/SavioReis/assets/72362096/900ad6d3-d6d3-4adc-aa73-55c1daeefef8" width="100px" />
+<img src="https://cdn.discordapp.com/attachments/1112534063824244786/1199783903070802062/hack-hacker.gif?ex=65c3ccd5&is=65b157d5&hm=03485c92ef1a5db2de53652868675556436a40d2009603b7c2e5fe3f43894efa&" width="100px" />
 </div>
 
 
