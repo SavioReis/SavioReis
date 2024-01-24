@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
-![hack-hacker](https://github.com/SavioReis/SavioReis/assets/72362096/9f741f46-77bb-46e7-9cae-1939754b8265)
+![hack-hacker](https://github.com/SavioReis/SavioReis/assets/72362096/9f741f46-77bb-46e7-9cae-1939754b8265 width="400" height="300")
 
 <p align="center">
   <img src=(https://github.com/SavioReis/SavioReis/assets/72362096/9f741f46-77bb-46e7-9cae-1939754b826) width="400" height="300">
