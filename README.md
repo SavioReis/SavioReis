@@ -43,7 +43,7 @@
 ![QTCreator](https://img.shields.io/badge/QTCreator-0D1117.svg?style=for-the-badge&logo=Qt&logoColor=DC143C)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=DC143C)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=DC143C)&nbsp;
-![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=DC143C)&nbsp;
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=DC143C)&nbsp;
