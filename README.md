@@ -41,11 +41,12 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=DC143C)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=DC143C)&nbsp;
 ![QTCreator](https://img.shields.io/badge/QTCreator-0D1117.svg?style=for-the-badge&logo=Qt&logoColor=DC143C)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=DC143C)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=DC143C)&nbsp;
+![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=DC143C)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=DC143C)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=DC143C)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=DC143C)&nbsp;
 
 ### Other Knowledge:
