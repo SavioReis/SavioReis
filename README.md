@@ -1,16 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
 <div align="center">
-  <img id="hack-gif" src="https://cdn.discordapp.com/attachments/1112534063824244786/1199783903070802062/hack-hacker.gif?ex=65c3ccd5&is=65b157d5&hm=03485c92ef1a5db2de53652868675556436a40d2009603b7c2e5fe3f43894efa&" width="100px" />
+  <img id="hack-gif" src="https://github-production-user-asset-6210df.s3.amazonaws.com/72362096/248507240-900ad6d3-d6d3-4adc-aa73-55c1daeefef8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240124T183341Z&X-Amz-Expires=300&X-Amz-Signature=efd942118828ce2e5b4240a9dffb8cd3140ef99a06c580da2c302486ccd9ae65&X-Amz-SignedHeaders=host&actor_id=72362096&key_id=0&repo_id=603560906" width="100px" />
 </div>
-
-<script>
-  var gif = document.getElementById("hack-gif");
-
-  gif.addEventListener("load", function() {
-    gif.play();
-  });
-</script>
 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+S%C3%81VIO+REIS;I'm+20+years+old;I'm+from+Brasil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://github.com/SavioReis/SavioReis)
