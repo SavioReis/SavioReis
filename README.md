@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1199789926431076406/1199791137565716500/cav2.jpg?ex=65c3d392&is=65b15e92&hm=45d6569188910060afd4defb17a45dacb76c43d64357686ca846ee8be977bf4c&" width="300" height="200">
+  <img src="https://cdn.discordapp.com/attachments/1199789926431076406/1199791882155335720/cav3.png?ex=65c3d443&is=65b15f43&hm=afe1a9be7ce185453ae29af42334c18a8403b7cb5185b6389b81ca3b5c5096a6&" width="300" height="200">
 </p>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+S%C3%81VIO+REIS;I'm+20+years+old;I'm+from+Brasil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://github.com/SavioReis/SavioReis)
