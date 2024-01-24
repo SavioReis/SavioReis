@@ -4,6 +4,8 @@
 <img src="https://github.com/SavioReis/SavioReis/assets/72362096/900ad6d3-d6d3-4adc-aa73-55c1daeefef8" width="100px" />
 </div>
 
+<div class="tenor-gif-embed" data-postid="26623817" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hack-hacker-hacking-hacked-matrix-gif-26623817">Hack Hacker Sticker</a>from <a href="https://tenor.com/search/hack-stickers">Hack Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+S%C3%81VIO+REIS;I'm+20+years+old;I'm+from+Brasil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://github.com/SavioReis/SavioReis)
 </div>
 
