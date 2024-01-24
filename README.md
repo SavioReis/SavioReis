@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
-![hack-hacker](https://github.com/SavioReis/SavioReis/assets/72362096/9f741f46-77bb-46e7-9cae-1939754b8265 width=400 height=300)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1112534063824244786/1199783903070802062/hack-hacker.gif?ex=65c3ccd5&is=65b157d5&hm=03485c92ef1a5db2de53652868675556436a40d2009603b7c2e5fe3f43894efa&" width="400" height="300">
+</p>
 
 <p align="center">
   <img src=(https://github.com/SavioReis/SavioReis/assets/72362096/9f741f46-77bb-46e7-9cae-1939754b826) width="400" height="300">
