@@ -4,7 +4,7 @@
   <img src="https://cdn.discordapp.com/attachments/1199789926431076406/1199793114592854056/cav4.png?ex=65c3d569&is=65b16069&hm=6467142bed27793d571a78700a840cc52412d11e064d12939dd3d1af750833d0&" width="300" height="200">
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+S%C3%81VIO+REIS;I'm+20+years+old;I'm+from+Brasil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://github.com/SavioReis/SavioReis)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+S%C3%81VIO+REIS;I'm+21+years+old;I'm+from+Brasil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://github.com/SavioReis/SavioReis)
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioReis&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
