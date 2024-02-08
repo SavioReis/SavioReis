@@ -33,24 +33,17 @@
 
  ### Main skills:
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=DC143C)&nbsp;
-![PYTHON](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=DC143C)&nbsp;
-![SQLITE](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=DC143C)&nbsp;
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=DC143C)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visual%20studio&logoColor=DC143C)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=DC143C)&nbsp;
-![QTCreator](https://img.shields.io/badge/QTCreator-0D1117.svg?style=for-the-badge&logo=Qt&logoColor=DC143C)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=DC143C)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=DC143C)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=DC143C)&nbsp;
 ![LUA](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=DC143C)&nbsp;
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=DC143C)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=DC143C)&nbsp;
 
-### Other Knowledge:
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=DC143C)&nbsp;
+### IDE:
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=DC143C)&nbsp;
+![QTCreator](https://img.shields.io/badge/QTCreator-0D1117.svg?style=for-the-badge&logo=Qt&logoColor=DC143C)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
