@@ -34,12 +34,14 @@
  ### Main skills:
 ![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=DC143C)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=DC143C)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=DC143C)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=DC143C)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=DC143C)&nbsp;
 ![LUA](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=DC143C)&nbsp;
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=DC143C)&nbsp;
+![Jquery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=DC143C)&nbsp;
+![Vue.Js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=DC143C)&nbsp;
 
 ### IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=DC143C)&nbsp;
