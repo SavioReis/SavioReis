@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1199789926431076406/1199791882155335720/cav3.png?ex=660da843&is=65fb3343&hm=14756113627f54c73c992c6e49ebf71aa2ab2275d242805c582e23b04690b01d&" width="300" height="200">
+  <img src="https://media.discordapp.net/attachments/1202091729260380160/1251707462340313182/HD-wallpaper-hacker-dark-mask-thumbnail.jpg?ex=666f8eea&is=666e3d6a&hm=b58a6095dce6b0cfd6e0c4e6dc4a30dc08942b171f73fff9cc8f5c2bb6a0b6d3&=&format=webp&width=382&height=676" width="300" height="200">
 </p>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+S%C3%81VIO+REIS;I'm+21+years+old;I'm+from+Brasil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://github.com/SavioReis/SavioReis)
