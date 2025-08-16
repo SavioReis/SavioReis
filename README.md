@@ -71,5 +71,9 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=SavioReis" alt="Snake Game">
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer-gatinho-hacker.gif" width="100%">
 </div>
