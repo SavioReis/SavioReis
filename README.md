@@ -1,59 +1,72 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
-
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1199789926431076406/1199791882155335720/cav3.png?ex=666f3743&is=666de5c3&hm=89253534d7a2a84383103e1b857f8cd158c2523465bb7e8ed8fd76991c3ce5d7&" width="300" height="200">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33F7F7&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+S%C3%A1vio!;Um+entusiasta+da+tecnologia;Cursando+Engenharia+de+Computa%C3%A7%C3%A3o;Apaixonado+por+resolver+problemas" alt="Typing SVG" />
+  </a>
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+S%C3%81VIO+REIS;I'm+21+years+old;I'm+from+Brasil,+GO;I+study+computer+engineering+at+Puc-Go;Be+Welcome!+:%29)](https://github.com/SavioReis/SavioReis)
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <a href="mailto:SEU_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  </div>
+
+---
+
+## 🚀 Minhas Habilidades Principais
+
+<div align="center" style="display: inline_block; margin-top: 20px;"><br>
+  <img align="center" alt="Sávio-C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Sávio-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Sávio-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sávio-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Sávio-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SavioReis&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+## 🌱 Estudando no Momento
 
+<div align="center" style="margin-top: 20px;">
+  <img align="center" alt="Sávio-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <p><strong>Java</strong> - Aprofundando meus conhecimentos para desenvolvimento de aplicações robustas e escaláveis.</p>
+</div>
+
+---
+
+## 🛠️ Ferramentas e Ambiente
+
+<div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
+  <div>
+    <h4>IDE Favorita</h4>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  </div>
+  <div>
+    <h4>Sistemas Operacionais</h4>
+    <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  </div>
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/SEU_USUARIO_DO_GITHUB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavioReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioReis&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<div align="center">
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SavioReis&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://komarev.com/ghpvc/?username=SavioReis&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de Visitas" />
 </p>
-
-
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SavioReis&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&bg_color=0d1117" alt="Sávio Reis github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioReis&layout=compact&hide_border=true&title_color=DC143C&text_color=DC143C&bg_color=0d1117" />
 </div>
 
-
 <div align="center">
-  <a href="https://instagram.com/savioreis09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:savioreisgoncalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </div>
-
- ### Main skills:
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=DC143C)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=DC143C)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-0D1117.svg?style=for-the-badge&logo=HTML5&logoColor=DC143C)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-0D1117.svg?style=for-the-badge&logo=CSS3&logoColor=DC143C)&nbsp;
-![LUA](https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=DC143C)&nbsp;
-![PYTHON](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=DC143C)&nbsp;
-
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117.svg?style=for-the-badge&logo=JavaScript&logoColor=DC143C)&nbsp;
-![Jquery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=DC143C)&nbsp;
-![Vue.Js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=DC143C)&nbsp;
-
-### IDE:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=DC143C)&nbsp;
-![QTCreator](https://img.shields.io/badge/QTCreator-0D1117.svg?style=for-the-badge&logo=Qt&logoColor=DC143C)&nbsp;
-
-### Operational systems :
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=DC143C)&nbsp;
-![Kali](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kali-linux&logoColor=DC143C)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SavioReis}/count.svg" /></p>
-<br>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer-gatinho-hacker.gif" width="100%">
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
-
