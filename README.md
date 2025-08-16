@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://i.pinimg.com/736x/56/e0/d7/56e0d7c629580e64a2d57705ba05db83.jpg" alt="Texto alternativo" width="350">
+</p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33F7F7&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+eu+sou+o+S%C3%A1vio!;Um+entusiasta+da+tecnologia;Cursando+Engenharia+de+Computa%C3%A7%C3%A3o;Apaixonado+por+resolver+problemas" alt="Typing SVG" />
   </a>
