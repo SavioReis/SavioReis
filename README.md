@@ -58,7 +58,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/SEU_USUARIO_DO_GITHUB">
+  <a href="https://github.com/SavioReis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavioReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioReis&layout=compact&langs_count=7&theme=dracula"/>
   </a>
