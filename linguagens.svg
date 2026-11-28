@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="205" viewBox="0 0 350 205" fill="none" role="img">
+<style>
+  .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #33F7F7; }
+  .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c0caf5; }
+  .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c0caf5; }
+  .f { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #7a83a8; }
+  .s { animation: entra .6s ease-out forwards; opacity: 0; }
+  @keyframes entra { to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" rx="10" width="349" height="204" fill="#1a1b27" stroke="#2a2e45"/>
+<text class="t" x="25" y="34">Linguagens mais usadas</text>
+<clipPath id="cb"><rect x="25" y="50" width="300" height="10" rx="5"/></clipPath>
+<g clip-path="url(#cb)"><rect x="25.00" y="50" width="98.16" height="10" fill="#f34b7d"/><rect x="123.16" y="50" width="87.53" height="10" fill="#e34c26"/><rect x="210.70" y="50" width="70.32" height="10" fill="#427819"/><rect x="281.02" y="50" width="17.09" height="10" fill="#f1e05a"/><rect x="298.11" y="50" width="9.66" height="10" fill="#663399"/><rect x="307.77" y="50" width="7.80" height="10" fill="#555555"/><rect x="315.57" y="50" width="5.22" height="10" fill="#888"/><rect x="320.80" y="50" width="4.20" height="10" fill="#4F5D95"/></g>
+<g class="s" style="animation-delay:200ms"><circle cx="30" cy="84" r="5" fill="#f34b7d"/><text class="l" x="41" y="88">C++ <tspan class="f">32,7%</tspan></text></g>
+<g class="s" style="animation-delay:300ms"><circle cx="180" cy="84" r="5" fill="#e34c26"/><text class="l" x="191" y="88">HTML <tspan class="f">29,2%</tspan></text></g>
+<g class="s" style="animation-delay:400ms"><circle cx="30" cy="108" r="5" fill="#427819"/><text class="l" x="41" y="112">Makefile <tspan class="f">23,4%</tspan></text></g>
+<g class="s" style="animation-delay:500ms"><circle cx="180" cy="108" r="5" fill="#f1e05a"/><text class="l" x="191" y="112">JavaScript <tspan class="f">5,7%</tspan></text></g>
+<g class="s" style="animation-delay:600ms"><circle cx="30" cy="132" r="5" fill="#663399"/><text class="l" x="41" y="136">CSS <tspan class="f">3,2%</tspan></text></g>
+<g class="s" style="animation-delay:700ms"><circle cx="180" cy="132" r="5" fill="#555555"/><text class="l" x="191" y="136">C <tspan class="f">2,6%</tspan></text></g>
+<g class="s" style="animation-delay:800ms"><circle cx="30" cy="156" r="5" fill="#888"/><text class="l" x="41" y="160">QMake <tspan class="f">1,7%</tspan></text></g>
+<g class="s" style="animation-delay:900ms"><circle cx="180" cy="156" r="5" fill="#4F5D95"/><text class="l" x="191" y="160">PHP <tspan class="f">1,4%</tspan></text></g>
+</svg>
